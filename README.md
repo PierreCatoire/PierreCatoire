@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 If you want to contact me send me a mail at pierre.catoire@univ-artois.fr
 - 😄 Pronouns: he
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love cats and board games.
 
 <!---
 PierreCatoire/PierreCatoire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
