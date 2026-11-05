@@ -2,9 +2,8 @@
 - 👀 I’m interested in chess, pastry and maths. More precisely, I am working in algebraic combinatorics.
   The aim is to use algebraic tools to some combinatorial objects to understand them better. For instance, we can build algebraic structures over trees, graphs, posets, matroids...
 - 🌱 I’m currently learning too much things including chess, maths and some designs to create a web page.
-- 💞️ I’m looking to collaborate on ...
 - 📫 If you want to contact me send me a mail at catoire_research@proton.me
-- 😄 Pronouns: he
+-  Pronouns: he/him
 - ⚡ Fun fact: I love cats and board games.
 
 <!---
